@@ -23,7 +23,7 @@ class Solution5 {
 public:
 	static bool IsPalindrome(string s)
 	{
-		int nLength = s.length();
+		int nLength = (int)s.length();
 		for (int i = 0; i < nLength / 2; ++i)
 		{
 			if (s[i] != s[nLength - i - 1])
@@ -37,11 +37,11 @@ public:
 		if (s.empty())
 			return strRet;
 
-		int nLength = s.length();
+		int nLength = (int)s.length();
 		for (int i = 0; i < nLength; ++i)
 		{
 			char c = s[i];
-			int nPos = s.find_last_of(c);
+			int nPos = (int)s.find_last_of(c);
 
 			int nLenTemp = (nPos - i + 1);
 			int nRetLen = (int)strRet.length();
@@ -66,7 +66,7 @@ public:
 				else
 				{
 					sTemp.pop_back();
-					nPos = sTemp.find_last_of(c);
+					nPos = (int)sTemp.find_last_of(c);
 
 					if (nPos < nRetLen)
 						break;

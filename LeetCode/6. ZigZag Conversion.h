@@ -23,7 +23,7 @@ public:
 
 		string strRet;
 		int nItemNum = numRows * 2 - 2;
-		int nSize = s.length();
+		int nSize = (int)s.length();
 		for (int i = 0; i < numRows; ++i)
 		{
 			int nPos = i;

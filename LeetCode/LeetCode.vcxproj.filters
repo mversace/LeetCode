@@ -66,6 +66,27 @@
     <ClInclude Include="BlackRed Tree.h">
       <Filter>Data Structures</Filter>
     </ClInclude>
+    <ClInclude Include="10. Regular Expression Matching.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="11. Container With Most Water.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="12. Integer to Roman.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="13. Roman to Integer.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="14. Longest Common Prefix.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="15. 3Sum.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="luoxuan.h">
+      <Filter>Data Structures</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

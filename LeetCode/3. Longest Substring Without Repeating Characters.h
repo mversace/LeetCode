@@ -22,7 +22,7 @@ public:
 		int nRet = 0;
 		for (auto c : s)
 		{
-			int nPos = sTemp.find(c);
+			int nPos = (int)sTemp.find(c);
 			if (nPos != string::npos)
 			{
 				nRet = max((int)sTemp.length(), nRet);

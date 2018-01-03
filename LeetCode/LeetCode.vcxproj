@@ -146,6 +146,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1. Two Sum.h" />
+    <ClInclude Include="10. Regular Expression Matching.h" />
+    <ClInclude Include="11. Container With Most Water.h" />
+    <ClInclude Include="12. Integer to Roman.h" />
+    <ClInclude Include="13. Roman to Integer.h" />
+    <ClInclude Include="14. Longest Common Prefix.h" />
+    <ClInclude Include="15. 3Sum.h" />
     <ClInclude Include="2. Add Two Numbers.h" />
     <ClInclude Include="3. Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="4. Median of Two Sorted Arrays.h" />
@@ -157,6 +163,7 @@
     <ClInclude Include="Binary Tree.h" />
     <ClInclude Include="BlackRed Tree.h" />
     <ClInclude Include="ITree.h" />
+    <ClInclude Include="luoxuan.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
