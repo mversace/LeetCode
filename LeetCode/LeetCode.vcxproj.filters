@@ -87,6 +87,42 @@
     <ClInclude Include="luoxuan.h">
       <Filter>Data Structures</Filter>
     </ClInclude>
+    <ClInclude Include="16. 3Sum Closest.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="17. Letter Combinations of a Phone Number.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="18. 4Sum.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="19. Remove Nth Node From End of List.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="20. Valid Parentheses.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="21. Merge Two Sorted Lists.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="22. Generate Parentheses.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="23. Merge k Sorted Lists.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="24. Swap Nodes in Pairs.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="25. Reverse Nodes in k-Group.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="26. Remove Duplicates from Sorted Array.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="27. Remove Element.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

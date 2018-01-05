@@ -56,4 +56,5 @@ void LuoXuanFunc(int n)
 			printf("%3d ", pData[i * n + j]);
 		printf("\n");
 	}
+	delete[] pData;
 }
