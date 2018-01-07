@@ -123,6 +123,12 @@
     <ClInclude Include="27. Remove Element.h">
       <Filter>Problem</Filter>
     </ClInclude>
+    <ClInclude Include="28. Implement strStr.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="29. Divide Two Integers.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

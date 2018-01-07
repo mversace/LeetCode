@@ -10,6 +10,7 @@
 #include "7. Reverse Integer.h"
 #include "8. String to Integer (atoi).h"
 #include "9. Palindrome Number.h"
+#include "29. Divide Two Integers.h"
 
 #include "Binary Tree.h"
 
@@ -17,12 +18,12 @@ int main()
 {
 
 	srand((unsigned int)GetTickCount());
-//	Solution9::test();
+	Solution29::test();
 
-	CBinaryTree c;
-	c.TestTraverse();
+// 	CBinaryTree c;
+// 	c.TestTraverse();
 
-	getchar();
+//	getchar();
 
     return 0;
 }
