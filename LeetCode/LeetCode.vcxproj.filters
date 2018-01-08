@@ -129,6 +129,12 @@
     <ClInclude Include="29. Divide Two Integers.h">
       <Filter>Problem</Filter>
     </ClInclude>
+    <ClInclude Include="30. Substring with Concatenation of All Words.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="31. Next Permutation.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

@@ -168,6 +168,8 @@
     <ClInclude Include="28. Implement strStr.h" />
     <ClInclude Include="29. Divide Two Integers.h" />
     <ClInclude Include="3. Longest Substring Without Repeating Characters.h" />
+    <ClInclude Include="30. Substring with Concatenation of All Words.h" />
+    <ClInclude Include="31. Next Permutation.h" />
     <ClInclude Include="4. Median of Two Sorted Arrays.h" />
     <ClInclude Include="5. Longest Palindromic Substring.h" />
     <ClInclude Include="6. ZigZag Conversion.h" />
