@@ -135,6 +135,15 @@
     <ClInclude Include="31. Next Permutation.h">
       <Filter>Problem</Filter>
     </ClInclude>
+    <ClInclude Include="32. Longest Valid Parentheses.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="33. Search in Rotated Sorted Array.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="35. Search Insert Position.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -146,5 +155,10 @@
     <ClCompile Include="ITree.cpp">
       <Filter>Data Structures</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="34. Search for a Range.h">
+      <Filter>Problem</Filter>
+    </None>
   </ItemGroup>
 </Project>

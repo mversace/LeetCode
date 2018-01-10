@@ -11,6 +11,8 @@
 #include "8. String to Integer (atoi).h"
 #include "9. Palindrome Number.h"
 #include "29. Divide Two Integers.h"
+#include "33. Search in Rotated Sorted Array.h"
+#include "34. Search for a Range.h"
 
 #include "Binary Tree.h"
 
@@ -18,7 +20,7 @@ int main()
 {
 
 	srand((unsigned int)GetTickCount());
-	Solution29::test();
+	Solution34::test();
 
 // 	CBinaryTree c;
 // 	c.TestTraverse();
