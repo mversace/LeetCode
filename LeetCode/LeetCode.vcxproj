@@ -173,6 +173,9 @@
     <ClInclude Include="32. Longest Valid Parentheses.h" />
     <ClInclude Include="33. Search in Rotated Sorted Array.h" />
     <ClInclude Include="35. Search Insert Position.h" />
+    <ClInclude Include="36. Valid Sudoku.h" />
+    <ClInclude Include="37. Sudoku Solver.h" />
+    <ClInclude Include="38. Count and Say.h" />
     <ClInclude Include="4. Median of Two Sorted Arrays.h" />
     <ClInclude Include="5. Longest Palindromic Substring.h" />
     <ClInclude Include="6. ZigZag Conversion.h" />

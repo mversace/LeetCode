@@ -144,6 +144,15 @@
     <ClInclude Include="35. Search Insert Position.h">
       <Filter>Problem</Filter>
     </ClInclude>
+    <ClInclude Include="36. Valid Sudoku.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="37. Sudoku Solver.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="38. Count and Say.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
