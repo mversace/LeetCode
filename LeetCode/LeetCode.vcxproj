@@ -176,7 +176,10 @@
     <ClInclude Include="36. Valid Sudoku.h" />
     <ClInclude Include="37. Sudoku Solver.h" />
     <ClInclude Include="38. Count and Say.h" />
+    <ClInclude Include="39. Combination Sum.h" />
     <ClInclude Include="4. Median of Two Sorted Arrays.h" />
+    <ClInclude Include="40. Combination Sum II.h" />
+    <ClInclude Include="41. First Missing Positive.h" />
     <ClInclude Include="5. Longest Palindromic Substring.h" />
     <ClInclude Include="6. ZigZag Conversion.h" />
     <ClInclude Include="7. Reverse Integer.h" />

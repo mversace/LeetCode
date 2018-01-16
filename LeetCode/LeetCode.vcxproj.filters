@@ -153,6 +153,15 @@
     <ClInclude Include="38. Count and Say.h">
       <Filter>Problem</Filter>
     </ClInclude>
+    <ClInclude Include="39. Combination Sum.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="40. Combination Sum II.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="41. First Missing Positive.h">
+      <Filter>Problem</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
