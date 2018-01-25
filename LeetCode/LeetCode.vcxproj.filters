@@ -19,6 +19,9 @@
     <Filter Include="Data Structures">
       <UniqueIdentifier>{3782778c-8fe2-4c77-a706-eb8e6b8e6248}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problem\1-50">
+      <UniqueIdentifier>{cf26b702-54b8-431b-ac90-7bde4d91fce2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -30,137 +33,167 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="2. Add Two Numbers.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\5. Longest Palindromic Substring.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="1. Two Sum.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\6. ZigZag Conversion.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="3. Longest Substring Without Repeating Characters.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\7. Reverse Integer.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="4. Median of Two Sorted Arrays.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\8. String to Integer (atoi).h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="5. Longest Palindromic Substring.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\9. Palindrome Number.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="6. ZigZag Conversion.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\10. Regular Expression Matching.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="7. Reverse Integer.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\11. Container With Most Water.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="8. String to Integer (atoi).h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\12. Integer to Roman.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="9. Palindrome Number.h">
-      <Filter>Problem</Filter>
+    <ClInclude Include="Problems\1-50\13. Roman to Integer.h">
+      <Filter>Problem\1-50</Filter>
     </ClInclude>
-    <ClInclude Include="Binary Tree.h">
+    <ClInclude Include="Problems\1-50\14. Longest Common Prefix.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\15. 3Sum.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\16. 3Sum Closest.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\17. Letter Combinations of a Phone Number.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\18. 4Sum.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\19. Remove Nth Node From End of List.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\20. Valid Parentheses.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\21. Merge Two Sorted Lists.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\22. Generate Parentheses.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\23. Merge k Sorted Lists.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\24. Swap Nodes in Pairs.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\25. Reverse Nodes in k-Group.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\26. Remove Duplicates from Sorted Array.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\27. Remove Element.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\28. Implement strStr.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\29. Divide Two Integers.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\30. Substring with Concatenation of All Words.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\31. Next Permutation.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\32. Longest Valid Parentheses.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\33. Search in Rotated Sorted Array.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\34. Search for a Range.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\35. Search Insert Position.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\36. Valid Sudoku.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\37. Sudoku Solver.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\38. Count and Say.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\39. Combination Sum.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\40. Combination Sum II.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\41. First Missing Positive.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\42. Trapping Rain Water.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\43. Multiply Strings.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\44. Wildcard Matching.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\45. Jump Game II.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\46. Permutations.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\47. Permutations II.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\48. Rotate Image.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\49. Group Anagrams.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\50. Pow(x, n).h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\1. Two Sum.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\2. Add Two Numbers.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\3. Longest Substring Without Repeating Characters.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\1-50\4. Median of Two Sorted Arrays.h">
+      <Filter>Problem\1-50</Filter>
+    </ClInclude>
+    <ClInclude Include="Data Structures\Binary Tree.h">
       <Filter>Data Structures</Filter>
     </ClInclude>
-    <ClInclude Include="ITree.h">
+    <ClInclude Include="Data Structures\BlackRed Tree.h">
       <Filter>Data Structures</Filter>
     </ClInclude>
-    <ClInclude Include="BlackRed Tree.h">
+    <ClInclude Include="Data Structures\ITree.h">
       <Filter>Data Structures</Filter>
     </ClInclude>
-    <ClInclude Include="10. Regular Expression Matching.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="11. Container With Most Water.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="12. Integer to Roman.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="13. Roman to Integer.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="14. Longest Common Prefix.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="15. 3Sum.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="luoxuan.h">
+    <ClInclude Include="Data Structures\luoxuan.h">
       <Filter>Data Structures</Filter>
-    </ClInclude>
-    <ClInclude Include="16. 3Sum Closest.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="17. Letter Combinations of a Phone Number.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="18. 4Sum.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="19. Remove Nth Node From End of List.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="20. Valid Parentheses.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="21. Merge Two Sorted Lists.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="22. Generate Parentheses.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="23. Merge k Sorted Lists.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="24. Swap Nodes in Pairs.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="25. Reverse Nodes in k-Group.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="26. Remove Duplicates from Sorted Array.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="27. Remove Element.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="28. Implement strStr.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="29. Divide Two Integers.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="30. Substring with Concatenation of All Words.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="31. Next Permutation.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="32. Longest Valid Parentheses.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="33. Search in Rotated Sorted Array.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="35. Search Insert Position.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="36. Valid Sudoku.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="37. Sudoku Solver.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="38. Count and Say.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="39. Combination Sum.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="40. Combination Sum II.h">
-      <Filter>Problem</Filter>
-    </ClInclude>
-    <ClInclude Include="41. First Missing Positive.h">
-      <Filter>Problem</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -170,13 +203,8 @@
     <ClCompile Include="LeetCode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ITree.cpp">
+    <ClCompile Include="Data Structures\ITree.cpp">
       <Filter>Data Structures</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="34. Search for a Range.h">
-      <Filter>Problem</Filter>
-    </None>
   </ItemGroup>
 </Project>

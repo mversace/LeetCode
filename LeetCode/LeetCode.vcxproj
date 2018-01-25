@@ -101,6 +101,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>Problems\1-50;Data Structures;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -145,55 +146,65 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="1. Two Sum.h" />
-    <ClInclude Include="10. Regular Expression Matching.h" />
-    <ClInclude Include="11. Container With Most Water.h" />
-    <ClInclude Include="12. Integer to Roman.h" />
-    <ClInclude Include="13. Roman to Integer.h" />
-    <ClInclude Include="14. Longest Common Prefix.h" />
-    <ClInclude Include="15. 3Sum.h" />
-    <ClInclude Include="16. 3Sum Closest.h" />
-    <ClInclude Include="17. Letter Combinations of a Phone Number.h" />
-    <ClInclude Include="18. 4Sum.h" />
-    <ClInclude Include="19. Remove Nth Node From End of List.h" />
-    <ClInclude Include="2. Add Two Numbers.h" />
-    <ClInclude Include="20. Valid Parentheses.h" />
-    <ClInclude Include="21. Merge Two Sorted Lists.h" />
-    <ClInclude Include="22. Generate Parentheses.h" />
-    <ClInclude Include="23. Merge k Sorted Lists.h" />
-    <ClInclude Include="24. Swap Nodes in Pairs.h" />
-    <ClInclude Include="25. Reverse Nodes in k-Group.h" />
-    <ClInclude Include="26. Remove Duplicates from Sorted Array.h" />
-    <ClInclude Include="27. Remove Element.h" />
-    <ClInclude Include="28. Implement strStr.h" />
-    <ClInclude Include="29. Divide Two Integers.h" />
-    <ClInclude Include="3. Longest Substring Without Repeating Characters.h" />
-    <ClInclude Include="30. Substring with Concatenation of All Words.h" />
-    <ClInclude Include="31. Next Permutation.h" />
-    <ClInclude Include="32. Longest Valid Parentheses.h" />
-    <ClInclude Include="33. Search in Rotated Sorted Array.h" />
-    <ClInclude Include="35. Search Insert Position.h" />
-    <ClInclude Include="36. Valid Sudoku.h" />
-    <ClInclude Include="37. Sudoku Solver.h" />
-    <ClInclude Include="38. Count and Say.h" />
-    <ClInclude Include="39. Combination Sum.h" />
-    <ClInclude Include="4. Median of Two Sorted Arrays.h" />
-    <ClInclude Include="40. Combination Sum II.h" />
-    <ClInclude Include="41. First Missing Positive.h" />
-    <ClInclude Include="5. Longest Palindromic Substring.h" />
-    <ClInclude Include="6. ZigZag Conversion.h" />
-    <ClInclude Include="7. Reverse Integer.h" />
-    <ClInclude Include="8. String to Integer (atoi).h" />
-    <ClInclude Include="9. Palindrome Number.h" />
-    <ClInclude Include="Binary Tree.h" />
-    <ClInclude Include="BlackRed Tree.h" />
-    <ClInclude Include="ITree.h" />
-    <ClInclude Include="luoxuan.h" />
+    <ClInclude Include="Data Structures\Binary Tree.h" />
+    <ClInclude Include="Data Structures\BlackRed Tree.h" />
+    <ClInclude Include="Data Structures\ITree.h" />
+    <ClInclude Include="Data Structures\luoxuan.h" />
+    <ClInclude Include="Problems\1-50\1. Two Sum.h" />
+    <ClInclude Include="Problems\1-50\10. Regular Expression Matching.h" />
+    <ClInclude Include="Problems\1-50\11. Container With Most Water.h" />
+    <ClInclude Include="Problems\1-50\12. Integer to Roman.h" />
+    <ClInclude Include="Problems\1-50\13. Roman to Integer.h" />
+    <ClInclude Include="Problems\1-50\14. Longest Common Prefix.h" />
+    <ClInclude Include="Problems\1-50\15. 3Sum.h" />
+    <ClInclude Include="Problems\1-50\16. 3Sum Closest.h" />
+    <ClInclude Include="Problems\1-50\17. Letter Combinations of a Phone Number.h" />
+    <ClInclude Include="Problems\1-50\18. 4Sum.h" />
+    <ClInclude Include="Problems\1-50\19. Remove Nth Node From End of List.h" />
+    <ClInclude Include="Problems\1-50\2. Add Two Numbers.h" />
+    <ClInclude Include="Problems\1-50\20. Valid Parentheses.h" />
+    <ClInclude Include="Problems\1-50\21. Merge Two Sorted Lists.h" />
+    <ClInclude Include="Problems\1-50\22. Generate Parentheses.h" />
+    <ClInclude Include="Problems\1-50\23. Merge k Sorted Lists.h" />
+    <ClInclude Include="Problems\1-50\24. Swap Nodes in Pairs.h" />
+    <ClInclude Include="Problems\1-50\25. Reverse Nodes in k-Group.h" />
+    <ClInclude Include="Problems\1-50\26. Remove Duplicates from Sorted Array.h" />
+    <ClInclude Include="Problems\1-50\27. Remove Element.h" />
+    <ClInclude Include="Problems\1-50\28. Implement strStr.h" />
+    <ClInclude Include="Problems\1-50\29. Divide Two Integers.h" />
+    <ClInclude Include="Problems\1-50\3. Longest Substring Without Repeating Characters.h" />
+    <ClInclude Include="Problems\1-50\30. Substring with Concatenation of All Words.h" />
+    <ClInclude Include="Problems\1-50\31. Next Permutation.h" />
+    <ClInclude Include="Problems\1-50\32. Longest Valid Parentheses.h" />
+    <ClInclude Include="Problems\1-50\33. Search in Rotated Sorted Array.h" />
+    <ClInclude Include="Problems\1-50\34. Search for a Range.h" />
+    <ClInclude Include="Problems\1-50\35. Search Insert Position.h" />
+    <ClInclude Include="Problems\1-50\36. Valid Sudoku.h" />
+    <ClInclude Include="Problems\1-50\37. Sudoku Solver.h" />
+    <ClInclude Include="Problems\1-50\38. Count and Say.h" />
+    <ClInclude Include="Problems\1-50\39. Combination Sum.h" />
+    <ClInclude Include="Problems\1-50\4. Median of Two Sorted Arrays.h" />
+    <ClInclude Include="Problems\1-50\40. Combination Sum II.h" />
+    <ClInclude Include="Problems\1-50\41. First Missing Positive.h" />
+    <ClInclude Include="Problems\1-50\42. Trapping Rain Water.h" />
+    <ClInclude Include="Problems\1-50\43. Multiply Strings.h" />
+    <ClInclude Include="Problems\1-50\44. Wildcard Matching.h" />
+    <ClInclude Include="Problems\1-50\45. Jump Game II.h" />
+    <ClInclude Include="Problems\1-50\46. Permutations.h" />
+    <ClInclude Include="Problems\1-50\47. Permutations II.h" />
+    <ClInclude Include="Problems\1-50\48. Rotate Image.h" />
+    <ClInclude Include="Problems\1-50\49. Group Anagrams.h" />
+    <ClInclude Include="Problems\1-50\5. Longest Palindromic Substring.h" />
+    <ClInclude Include="Problems\1-50\50. Pow(x, n).h" />
+    <ClInclude Include="Problems\1-50\6. ZigZag Conversion.h" />
+    <ClInclude Include="Problems\1-50\7. Reverse Integer.h" />
+    <ClInclude Include="Problems\1-50\8. String to Integer (atoi).h" />
+    <ClInclude Include="Problems\1-50\9. Palindrome Number.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ITree.cpp" />
+    <ClCompile Include="Data Structures\ITree.cpp" />
     <ClCompile Include="LeetCode.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -201,9 +212,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="34. Search for a Range.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
