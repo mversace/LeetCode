@@ -22,6 +22,9 @@
     <Filter Include="Problem\1-50">
       <UniqueIdentifier>{cf26b702-54b8-431b-ac90-7bde4d91fce2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problem\51-100">
+      <UniqueIdentifier>{7b379f68-58e2-43eb-913f-6184beb38502}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -194,6 +197,30 @@
     </ClInclude>
     <ClInclude Include="Data Structures\luoxuan.h">
       <Filter>Data Structures</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\51. N-Queens.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\52. N-Queens II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\53. Maximum Subarray.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\54. Spiral Matrix.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\55. Jump Game.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\56. Merge Intervals.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\57. Insert Interval.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\58. Length of Last Word.h">
+      <Filter>Problem\51-100</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

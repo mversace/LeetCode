@@ -101,7 +101,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>Problems\1-50;Data Structures;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>Problems\51-100;Problems\1-50;Data Structures;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -200,6 +200,14 @@
     <ClInclude Include="Problems\1-50\7. Reverse Integer.h" />
     <ClInclude Include="Problems\1-50\8. String to Integer (atoi).h" />
     <ClInclude Include="Problems\1-50\9. Palindrome Number.h" />
+    <ClInclude Include="Problems\51-100\51. N-Queens.h" />
+    <ClInclude Include="Problems\51-100\52. N-Queens II.h" />
+    <ClInclude Include="Problems\51-100\53. Maximum Subarray.h" />
+    <ClInclude Include="Problems\51-100\54. Spiral Matrix.h" />
+    <ClInclude Include="Problems\51-100\55. Jump Game.h" />
+    <ClInclude Include="Problems\51-100\56. Merge Intervals.h" />
+    <ClInclude Include="Problems\51-100\57. Insert Interval.h" />
+    <ClInclude Include="Problems\51-100\58. Length of Last Word.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
