@@ -222,6 +222,57 @@
     <ClInclude Include="Problems\51-100\58. Length of Last Word.h">
       <Filter>Problem\51-100</Filter>
     </ClInclude>
+    <ClInclude Include="Problems\51-100\59. Spiral Matrix II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\60. Permutation Sequence.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\61. Rotate List.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\62. Unique Paths.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\63. Unique Paths II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\64. Minimum Path Sum.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\65. Valid Number.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\66. Plus One.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\67. Add Binary.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\68. Text Justification.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\69. Sqrt(x).h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\70. Climbing Stairs.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\71. Simplify Path.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\72. Edit Distance.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\73. Set Matrix Zeroes.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\74. Search a 2D Matrix.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\75. Sort Colors.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

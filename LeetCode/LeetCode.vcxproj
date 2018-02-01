@@ -208,6 +208,23 @@
     <ClInclude Include="Problems\51-100\56. Merge Intervals.h" />
     <ClInclude Include="Problems\51-100\57. Insert Interval.h" />
     <ClInclude Include="Problems\51-100\58. Length of Last Word.h" />
+    <ClInclude Include="Problems\51-100\59. Spiral Matrix II.h" />
+    <ClInclude Include="Problems\51-100\60. Permutation Sequence.h" />
+    <ClInclude Include="Problems\51-100\61. Rotate List.h" />
+    <ClInclude Include="Problems\51-100\62. Unique Paths.h" />
+    <ClInclude Include="Problems\51-100\63. Unique Paths II.h" />
+    <ClInclude Include="Problems\51-100\64. Minimum Path Sum.h" />
+    <ClInclude Include="Problems\51-100\65. Valid Number.h" />
+    <ClInclude Include="Problems\51-100\66. Plus One.h" />
+    <ClInclude Include="Problems\51-100\67. Add Binary.h" />
+    <ClInclude Include="Problems\51-100\68. Text Justification.h" />
+    <ClInclude Include="Problems\51-100\69. Sqrt(x).h" />
+    <ClInclude Include="Problems\51-100\70. Climbing Stairs.h" />
+    <ClInclude Include="Problems\51-100\71. Simplify Path.h" />
+    <ClInclude Include="Problems\51-100\72. Edit Distance.h" />
+    <ClInclude Include="Problems\51-100\73. Set Matrix Zeroes.h" />
+    <ClInclude Include="Problems\51-100\74. Search a 2D Matrix.h" />
+    <ClInclude Include="Problems\51-100\75. Sort Colors.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
