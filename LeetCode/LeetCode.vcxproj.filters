@@ -273,6 +273,21 @@
     <ClInclude Include="Problems\51-100\75. Sort Colors.h">
       <Filter>Problem\51-100</Filter>
     </ClInclude>
+    <ClInclude Include="Problems\51-100\76. Minimum Window Substring.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\77. Combinations.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\78. Subsets.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\79. Word Search.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\80. Remove Duplicates from Sorted Array II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

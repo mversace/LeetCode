@@ -225,6 +225,11 @@
     <ClInclude Include="Problems\51-100\73. Set Matrix Zeroes.h" />
     <ClInclude Include="Problems\51-100\74. Search a 2D Matrix.h" />
     <ClInclude Include="Problems\51-100\75. Sort Colors.h" />
+    <ClInclude Include="Problems\51-100\76. Minimum Window Substring.h" />
+    <ClInclude Include="Problems\51-100\77. Combinations.h" />
+    <ClInclude Include="Problems\51-100\78. Subsets.h" />
+    <ClInclude Include="Problems\51-100\79. Word Search.h" />
+    <ClInclude Include="Problems\51-100\80. Remove Duplicates from Sorted Array II.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
