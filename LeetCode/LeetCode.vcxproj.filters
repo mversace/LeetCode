@@ -25,6 +25,9 @@
     <Filter Include="Problem\51-100">
       <UniqueIdentifier>{7b379f68-58e2-43eb-913f-6184beb38502}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problem\101-150">
+      <UniqueIdentifier>{96e4cea8-656f-43e6-83e0-1adc34de3fe1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -287,6 +290,90 @@
     </ClInclude>
     <ClInclude Include="Problems\51-100\80. Remove Duplicates from Sorted Array II.h">
       <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\81. Search in Rotated Sorted Array II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\82. Remove Duplicates from Sorted List II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\83. Remove Duplicates from Sorted List.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\84. Largest Rectangle in Histogram.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\85. Maximal Rectangle.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\86. Partition List.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\87. Scramble String.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\88. Merge Sorted Array.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\89. Gray Code.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\90. Subsets II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\91. Decode Ways.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\92. Reverse Linked List II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\93. Restore IP Addresses.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\94. Binary Tree Inorder Traversal.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\95. Unique Binary Search Trees II.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\96. Unique Binary Search Trees.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\97. Interleaving String.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\98. Validate Binary Search Tree.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\99. Recover Binary Search Tree.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\51-100\100. Same Tree.h">
+      <Filter>Problem\51-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\101. Symmetric Tree.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\102. Binary Tree Level Order Traversal.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\103. Binary Tree Zigzag Level Order Traversal.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\104. Maximum Depth of Binary Tree.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\105. Construct Binary Tree from Preorder and Inorder Traversal.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\106. Construct Binary Tree from Inorder and Postorder Traversal.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\107. Binary Tree Level Order Traversal II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\108. Convert Sorted Array to Binary Search Tree.h">
+      <Filter>Problem\101-150</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
