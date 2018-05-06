@@ -375,6 +375,105 @@
     <ClInclude Include="Problems\051-100\52. N-Queens II.h">
       <Filter>Problem\51-100</Filter>
     </ClInclude>
+    <ClInclude Include="Problems\101-150\109. Convert Sorted List to Binary Search Tree.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\110. Balanced Binary Tree.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\111. Minimum Depth of Binary Tree.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\112. Path Sum.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\113. Path Sum II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\114. Flatten Binary Tree to Linked List.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\115. Distinct Subsequences.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\116. Populating Next Right Pointers in Each Node.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\117. Populating Next Right Pointers in Each Node II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\118. Pascal%27s Triangle.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\119. Pascal%27s Triangle II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\120. Triangle.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\121. Best Time to Buy and Sell Stock.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\122. Best Time to Buy and Sell Stock II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\123. Best Time to Buy and Sell Stock III.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\124. Binary Tree Maximum Path Sum.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\125. Valid Palindrome.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\126. Word Ladder II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\127. Word Ladder.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\128. Longest Consecutive Sequence.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\129. Sum Root to Leaf Numbers.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\130. Surrounded Regions.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\131. Palindrome Partitioning.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\132. Palindrome Partitioning II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\133. Clone Graph.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\134. Gas Station.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\135. Candy.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\136. Single Number.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\137. Single Number II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\138. Copy List with Random Pointer.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\139. Word Break.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\140. Word Break II.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\101-150\141. Linked List Cycle.h">
+      <Filter>Problem\101-150</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
